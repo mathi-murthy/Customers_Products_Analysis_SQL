@@ -1,7 +1,7 @@
 # Customers_Products_Analysis_SQL
 
 # Business Questions
-Question 1: Which products should we order more of or less of?
+Question 1: Which products should we order more of or less of? <br/>
 Question 2: How should we tailor marketing and communication strategies to customer behaviors?
 Question 3: How much can we spend on acquiring new customers?
 
