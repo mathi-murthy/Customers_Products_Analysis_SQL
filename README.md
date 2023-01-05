@@ -48,15 +48,15 @@ Query to compute the average of customer lifetime value (LTV) using CTE
 # Question
 1. Which products should we order more of or less of? <br/>
 
-'Classic Cars' should be re-stocked as they sell frequently with high product performance, 6 out 10 cars belong to this product line.  <br/>
+   'Classic Cars' should be re-stocked as they sell frequently with high product performance, 6 out 10 cars belong to this product line.  <br/>
 
 2. How should we tailor marketing and communication strategies to customer behaviors? <br/>
 
-Analysing results we could offer top customers with loyalty rewards and priority services and bottom customers could give us suggestions and feedback to understand their preferences and expectations.<br/>
+   Analysing results we could offer top customers with loyalty rewards and priority services and bottom customers could give us suggestions and feedback to    understand their preferences and expectations.<br/>
 
 3. How much can we spend on acquiring new customers? <br/>
-4. 
-The average LTV (customer liftime value) is $ 39,040, with every new customer the company can make a profit of  $39,040. <br/>
+
+   The average LTV (customer liftime value) is $ 39,040, with every new customer the company can make a profit of  $39,040. <br/>
 	  
 
 
