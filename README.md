@@ -44,3 +44,17 @@ Query to find top 5 customers in terms of profit generation by using CTE
 Query to compute the average of customer lifetime value (LTV) using CTE
 
 <img width="142" alt="S8" src="https://user-images.githubusercontent.com/87891837/210899771-dd6f8574-a8a5-41dc-b87d-700f8f5c723a.png">
+
+#Question
+Which products should we order more of or less of? <br/>
+'Classic Cars' should be re-stocked as they sell frequently with high product performance, 6 out 10 cars belong to this product line.  <br/>
+
+How should we tailor marketing and communication strategies to customer behaviors? <b/>
+Analysing results we could offer top customers with loyalty rewards and priority services and bottom customers could give us suggestions and feedback to understand their preferences and expectations.
+
+How much can we spend on acquiring new customers? <b/>
+The average LTV (customer liftime value) is $ 39,040, with every new customer the company can make a profit of  $39,040. <b/>
+	  
+
+
+
